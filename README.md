@@ -13,5 +13,6 @@ Welcome! This repo is for recording what we've learned about producing and distr
 
  - **Make wiki pages narrow scoped and task-focused**: see the template in the wiki. Each page should address ONE OR AT MOST TWO specific, actionable, result-oriented goals. Have more things to tell people? Make more wiki pages. 50,000 word pages are overwhelming and unusable.
  - **Add supporting docs to the repo**: not into git? Just attach them to an issue and magic git elves will deal with it.
+ - **Got video?** Awesome, but please upload to [youtube | vimeo | whatever], not the repo (too big)
  - **Add your page to the wiki directory**: otherwise it'll get lost.
  - **Not sure you should add your page? Yes, you should.** Best if we all capture everything asap; when in doubt, just add it, or open an issue to discuss.

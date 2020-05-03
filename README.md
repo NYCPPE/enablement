@@ -6,7 +6,7 @@ Welcome! This repo is for recording what we've learned about producing and distr
 
  - How to's live in the [wiki](https://github.com/NYCPPE/enablement/wiki)
  - Supporting docs are in the repo
- - Suggestions? [open an issue](https://github.com/NYCPPE/enablement/issues)
+ - Suggestions? [open an issue](https://github.com/NYCPPE/enablement/issues/new)
  - Want to add a new wiki page? Awesome! Open an issue to ask for write access, or just dump your content in an issue and we'll sort it in for you.
  
 ## Contribution Guidelines

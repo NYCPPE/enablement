@@ -1,4 +1,4 @@
-# enablement
+# PPE Production Enablement
 
 Welcome! This repo is for recording what we've learned about producing and distributing PPE during the first-wave COVID 19 crisis in NYC. See this readme for orientation, and the [wiki](https://github.com/NYCPPE/enablement/wiki) for all the how-to pages.
 
